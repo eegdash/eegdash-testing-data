@@ -40,6 +40,7 @@
       "sampling_frequency": null,
       "nchans": null,
       "ntimes": null,
+      "duration_seconds": null,
       "digested_at": "2026-05-21T12:09:51.416461+00:00",
       "download_url": "https://zenodo.org/records/snapshot-manifest-12345/files/sub-01_ses-01_task-rest_eeg.edf",
       "file_size": 1048576
@@ -79,6 +80,7 @@
       "sampling_frequency": null,
       "nchans": null,
       "ntimes": null,
+      "duration_seconds": null,
       "digested_at": "2026-05-21T12:09:51.416461+00:00",
       "download_url": "https://zenodo.org/records/snapshot-manifest-12345/files/sub-01_ses-01_task-motor_eeg.edf",
       "file_size": 1048576
@@ -118,6 +120,7 @@
       "sampling_frequency": null,
       "nchans": null,
       "ntimes": null,
+      "duration_seconds": null,
       "digested_at": "2026-05-21T12:09:51.416461+00:00",
       "download_url": "https://zenodo.org/records/snapshot-manifest-12345/files/sub-02_ses-01_task-rest_eeg.edf",
       "file_size": 1048576
