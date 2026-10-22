@@ -36,8 +36,7 @@
         "raw_key": "sub-xp101/eeg/sub-xp101_task-motorloc_eeg.vhdr",
         "dep_keys": [
           "sub-xp101/eeg/sub-xp101_task-motorloc_eeg.eeg",
-          "sub-xp101/eeg/sub-xp101_task-motorloc_eeg.vmrk",
-          "sub-xp101/eeg/sub-xp101_task-motorloc_eeg.dat"
+          "sub-xp101/eeg/sub-xp101_task-motorloc_eeg.vmrk"
         ]
       },
       "ch_names": [
